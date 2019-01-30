@@ -264,7 +264,7 @@ public class Main extends ApplicationAdapter {
         alturaDoDispositivo = VIRTUAL_HEIGHT;
         posicaoInicialPassaroY = (alturaDoDispositivo/2);
         posicaoCanoX = larguraDoDispositivo;
-        espacoEntreCanos = 400;
+        espacoEntreCanos = 280;
 
         //Config dos textos
         textoPontuacao = new BitmapFont();
