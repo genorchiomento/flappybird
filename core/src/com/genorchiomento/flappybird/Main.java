@@ -40,7 +40,7 @@ public class Main extends ApplicationAdapter {
     private float alturaDoDispositivo;
     private float variacao = 0;
     private float gravidade = 0;
-    private float valorGravidade = -20;
+    private float valorGravidade = -15;
     private float posicaoInicialPassaroY = 0;
     private float posicaoInicialPassaroX = 60;
     private float posicaoCanoX;
